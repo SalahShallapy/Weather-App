@@ -30,7 +30,7 @@ This is a simple weather application that allows users to search for weather con
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/SalahShallapy/Weather_App.git
-   cd weather-app
+   cd weather_app
    ```
 
 ## Configuration
@@ -48,14 +48,16 @@ export const API_KEY = "your_api_key_here";
 
 ## File Structure
 
+```
 weather-app/
 │
 ├── index.html # Main HTML file
 ├── style.css # CSS for styling
 ├── views/
-│ ├── index.js # JavaScript logic
-│ └── config.js # Contains the API key
+│     ├── index.js # JavaScript logic
+│     └── config.js # Contains the API key
 └── images/ # Weather icons and
+```
 
 ## Contributing
 
