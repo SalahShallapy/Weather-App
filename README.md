@@ -42,9 +42,9 @@ This is a simple weather application that allows users to search for weather con
 Get an API Key
 This project requires an API key from [OpenWeatherMap](https://openweathermap.org/). Follow these steps to get one:
 
-Sign up for a free account at [OpenWeatherMap](https://openweathermap.org/).
-Go to the API keys section in your account and generate a new API key.
-Replace the placeholder in the config.js file with your API key:
+- Sign up for a free account at [OpenWeatherMap](https://openweathermap.org/).
+- Go to the API keys section in your account and generate a new API key.
+- Replace the placeholder in the config.js file with your API key:
 
 ```bash
 export const API_KEY = "your_api_key_here";
